@@ -10,14 +10,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/IGM-RichMedia-at-RIT/streaming-media-assignment.git"
+        "url": "git+https://github.com/artisd/streaming-media-assignment.git"
     },
     "author": "",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/IGM-RichMedia-at-RIT/streaming-media-assignment/issues"
+        "url": "https://github.com/artisd/streaming-media-assignment/issues"
     },
-    "homepage": "https://github.com/IGM-RichMedia-at-RIT/streaming-media-assignment#readme",
+    "homepage": "https://github.com/artisd/streaming-media-assignment#readme",
     "devDependencies": {
         "eslint": "^4.16.0",
         "eslint-config-airbnb": "^16.1.0",
